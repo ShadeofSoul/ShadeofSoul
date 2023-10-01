@@ -10,11 +10,11 @@
 
 
 
-## Hi there 👋 I'm  [Aizhan Moinokova](https://portfolio-psi-hazel-97.vercel.app)  😀
+# Hi there 👋 I'm  [Aizhan Moinokova](https://portfolio-psi-hazel-97.vercel.app)  😀
 
 
 
-## :email: Find me on:
+# :email: Find me on:
 
 <!--
 [<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,10 +30,9 @@
   <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
-<br />
 
 
-## 🧰 Languages and Tools:
+# 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -50,7 +49,6 @@
 
 </p>
 
-<br />
 
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -62,4 +60,7 @@
   <br/>
 
 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ShadeofSoul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShadeofSoul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
