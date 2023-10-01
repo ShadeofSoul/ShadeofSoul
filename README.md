@@ -61,6 +61,9 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&hide=php&theme=tokyonight" />
 </a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&layout=compact&theme=tokyonight)
   
 </div>
 
