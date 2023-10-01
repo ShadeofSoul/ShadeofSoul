@@ -1,6 +1,5 @@
-<p align="center" >
-  <a href="https://github.com/ShadeofSoul" style="color: #f75c7e">
-    Aizhan Moinokova</a>
+<p align="center"  style="color: #f75c7e">
+    Aizhan Moinokova
 </p>
 
 <p align="center">
