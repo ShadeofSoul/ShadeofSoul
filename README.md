@@ -1,6 +1,9 @@
-<p align="center"  style="color: #f75c7e;">
-    AIZHAN MOINOKOVA
+<p align="center" style="color: #f75c7e;">
+  <a href="https://github.com/ShadeofSoul">
+    Aizhan Moinokova
+  </a>
 </p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
