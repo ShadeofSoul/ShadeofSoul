@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ShadeofSoul">
-    <img src="https://ibb.co/NZLrcwN" alt="Aizhan Moinokova">
+    <img src="https://ltdfoto.ru/image/y6ZsK7" alt="Aizhan Moinokova">
   </a>
 </p>
 
