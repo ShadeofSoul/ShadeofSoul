@@ -8,30 +8,12 @@
 
  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
- 
-<div align="center">
-  
-![Snake animation](https://github.com/krieger66/krieger66/blob/output/github-contribution-grid-snake.svg)
 
 
- </div>
-
- 
-
-
-## Hi there 👋 I'm [Charalambos][website] a.k.a Harry 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+## Hi there 👋 I'm [Aizhan Moinokova][https://portfolio-psi-hazel-97.vercel.app/] 😀
+![](https://visitor-badge.laobi.icu/badge?page_id=ShadeofSoul.ShadeofSoul) [![Github](https://img.shields.io/github/followers/ShadeofSoul?label=Followers&logo=Github)](https://github.com/ShadeofSoul)
 
 
-
-
-## 🎓 I'm a Freelance Data Scientist
-
-- 🔭 I’m currently building my [Fiverr](https://www.fiverr.com/harryioan/) Gigs.
-- 🌱 I’m currently learning Rshiny. 
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything
-- 🤖 I am a [PyData](https://pydata.org/) Mentor. How may AI help you?
 
 ## :email: Find me on:
 
