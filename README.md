@@ -21,7 +21,7 @@
    <a href="https://career.habr.com/shade-soul" target="_blank"><img src="https://img.shields.io/badge/-HabrCareer-%230077B5?style=for-the-badge&logo=habr&logoColor=white" target="_blank">  </a>
      <a href="https://www.instagram.com/badliar__m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank">  </a>
      <a href="https://t.me/ShadeSoul" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=black" target="_blank">  </a>
-     
+     <a href="https://gitlab.com/ShadeSoul" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%230077B5?style=for-the-badge&logo=gitlab&logoColor=black" target="_blank">  </a>
 
 </p>
 
