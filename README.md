@@ -57,7 +57,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
   [![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=tokyonight&hide_border=true&border_radius=4)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=ShadeofSoul&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
