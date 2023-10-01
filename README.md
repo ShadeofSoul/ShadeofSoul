@@ -53,7 +53,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShadeofSoul's streak" src="https://streak-stats.demolab.com/?user=ShadeofSoul&theme=tokyonight&hide_border=true"  height="195px" width="430px"/>
     </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ShadeofSoul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height="188px" width="370px" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ShadeofSoul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height="188px" width="350px" /></a>
   <br/>
 
 <!--
