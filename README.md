@@ -1,5 +1,5 @@
-<p align="center"  style="color: #f75c7e">
-    Aizhan Moinokova
+<p align="center"  style="color: #f75c7e;">
+    AIZHAN MOINOKOVA
 </p>
 
 <p align="center">
