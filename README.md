@@ -20,13 +20,6 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<br/>
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
-
 <details open> 
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
