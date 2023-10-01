@@ -54,23 +54,15 @@
 
 ## :trophy: My Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=bear&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=ShadeofSoul&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ShadeofSoul&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=bear&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&hide=php&theme=tokyonight" />
 </a>
 </div>
 
-
-
-[website]: https://charalambosioannou.tech
-[linkedin]: https://linkedin.com/in/charalambosioannou
-[mail]: mailto:cioannou1997@gmail.com
 
