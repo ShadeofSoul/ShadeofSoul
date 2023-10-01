@@ -10,8 +10,10 @@
 
 
 
-## Hi there 👋 I'm [Aizhan Moinokova][https://portfolio-psi-hazel-97.vercel.app/] 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=ShadeofSoul.ShadeofSoul) [![Github](https://img.shields.io/github/followers/ShadeofSoul?label=Followers&logo=Github)](https://github.com/ShadeofSoul)
+## Hi there 👋 I'm [Charalambos][website] a.k.a Harry 😀
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+
+
 
 
 
@@ -74,5 +76,4 @@
 [website]: https://charalambosioannou.tech
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
-
 
