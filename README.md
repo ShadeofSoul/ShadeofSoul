@@ -75,9 +75,55 @@ I look forward to working with teams with passion and enthusiasm in open and cha
 <img src="https://camo.githubusercontent.com/a8b6f4da82d06377c555de8affbcd5318f5e0be7eb88abab97c3130d1cade44a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="git" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=flat&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 
 
-  
-
 
 statistics
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=seyemr&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+## Hi, I'm Nik 👋
+
+[![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=&theme=bear&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+ 
+---
+
+## Technology that I use every day
+
+![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=111&logoColor=bf91f3&style=flat-square&link=)
+![javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=111&logoColor=bf91f3&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+
+![Back-End](https://img.shields.io/static/v1?label=&message=Back-End&nbsp;frameworks:&color=555&style=flat-square)
+![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=111&logoColor=bf91f3&style=flat-square&link=)
+![expressjs](https://img.shields.io/static/v1?logo=express&label=&message=express&color=111&logoColor=bf91f3&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+
+![Databases](https://img.shields.io/static/v1?label=&message=Databases:&color=555&style=flat-square)
+![Mongodb](https://img.shields.io/static/v1?logo=Mongodb&label=&message=Mongodb&color=111&logoColor=bf91f3&style=flat-square&link=)
+![Postgresql](https://img.shields.io/static/v1?logo=Postgresql&label=&message=Postgresql&color=111&logoColor=bf91f3&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+
+![Front-End](https://img.shields.io/static/v1?label=&message=Front-End&nbsp;frameworks:&color=555&style=flat-square)
+![react.js](https://img.shields.io/static/v1?logo=react&label=&message=react.js&color=111&logoColor=bf91f3&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+
+![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=555&style=flat-square)
+![webstorm](https://img.shields.io/static/v1?logo=webstorm&label=&message=webstorm&color=111&logoColor=bf91f3&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=bf91f3&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+
+<img align="left" alt="Telegram" src="https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square" />
+<a href="https://t.me/smthv">
+  <img align="left" alt="Telegram" src="https://img.shields.io/static/v1?logo=telegram&label=&message=telegram&color=111&logoColor=bf91f3&style=flat-square" />
+</a> 
+
