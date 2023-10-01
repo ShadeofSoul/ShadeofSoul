@@ -10,11 +10,12 @@
 
  
 <div align="center">
+  
 ![Snake animation](https://github.com/krieger66/krieger66/blob/output/github-contribution-grid-snake.svg)
+
+
  </div>
 
-
-[![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=bear&hide_border=true&border_radius=4)](https://git.io/streak-stats)
  
 
 
@@ -70,19 +71,9 @@
 
 <br />
 
-## :blue_book: Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with Git and GitHub: A simple roadmap](https://dev.to/charalambosioannou/getting-started-with-git-and-github-a-simple-roadmap-lfn)
-- [Dream Job vs. Tech Job?](https://dev.to/charalambosioannou/dream-job-vs-tech-job-5fdj)
-- [Create an Awesome Cover Letter with GPT-3](https://dev.to/charalambosioannou/create-an-awesome-cover-letter-with-gpt-3-4f65)
-- [10+1 Useful Python Code Snippets for Everyday Problems](https://dev.to/charalambosioannou/10-useful-one-liner-python-code-snippets-to-make-your-everyday-coding-useful-javascript-code-snippets-for-common-problems-351)
-- [Develop a mobile app with NO coding!!](https://dev.to/charalambosioannou/develop-a-mobile-app-without-one-line-of-code-oeh)
-<!-- BLOG-POST-LIST:END -->
-
-
-
 ## :trophy: My Github Stats:
 
+[![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=bear&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
