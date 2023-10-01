@@ -54,12 +54,12 @@
 
 ## :trophy: My Github Stats:
 
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=bear&hide_border=true&border_radius=4)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&layout=compact&theme=tokyonight)
+<div style="display: flex; align-items: center;">
   
-</p>
+  [![GitHub Streak](https://github-readme-streak-stats-one-psi.vercel.app?user=ShadeofSoul&theme=tokyonight&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeofSoul&layout=compact&theme=tokyonight)
+  
+</div>
+
 
 
