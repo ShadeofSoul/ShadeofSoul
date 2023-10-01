@@ -10,10 +10,7 @@
 
 
 
-## Hi there 👋 I'm [Charalambos][website] a.k.a Harry 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
-
-
+## Hi there 👋 I'm  [Aizhan Moinokova](https://portfolio-psi-hazel-97.vercel.app)  😀
 
 
 
