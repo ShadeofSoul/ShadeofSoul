@@ -18,7 +18,7 @@
 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/gabriel-serrano-327515185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>
+   <a href="https://career.habr.com/shade-soul" target="_blank"><img src="https://img.shields.io/badge/-HabrCareer-%230077B5?style=for-the-badge&logo=habr&logoColor=white" target="_blank">  </a>
      <a href="https://www.linkedin.com/in/gabriel-serrano-327515185/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">  </a>
 
 </p>
