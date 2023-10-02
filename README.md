@@ -31,7 +31,7 @@
   🧰 My Skills
 </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,ts,redux)](https://skillicons.dev)
 
 
 
