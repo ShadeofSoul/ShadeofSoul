@@ -31,7 +31,7 @@
   🧰 My Skills
 </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,vite,ts,redux,firebase,vscode,git,mui,bootstrap,jquery,figma,matlab,visualstudio,cpp,c,linux,axios)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,vite,ts,redux,firebase,vscode,git,mui,bootstrap,jquery,figma,matlab,visualstudio,cpp,c,linux)](https://skillicons.dev)
 
 
 
