@@ -33,7 +33,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,vite,ts,redux,firebase,vscode,git,mui,tailwind,bootstrap,jquery,figma,matlab,visualstudio,cpp,c,linux)](https://skillicons.dev)
 
+<h3>
+  🤖 Future Goals
+</h3> 
 
+[![My Skills](https://skillicons.dev/icons?i=node)](https://skillicons.dev)
 
 
   <h3>💻 GitHub Profile Stats</h3>
