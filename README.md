@@ -35,7 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,vite,ts,redux,firebase,vscode,git,mui,tailwind,bootstrap,jquery,figma,matlab,visualstudio,cpp,c,linux,vim)](https://skillicons.dev)
 
 <h3>
-  🤖 Future Goals
+  🤖 My Future Goals
 </h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker)](https://skillicons.dev)
