@@ -38,7 +38,7 @@
   🤖 My Future Goals
 </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,express)](https://skillicons.dev)
 
 
   <h3>💻 GitHub Profile Stats</h3>
