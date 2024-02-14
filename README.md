@@ -32,7 +32,7 @@
   🧰 My Skills
 </h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,vite,ts,firebase,vscode,git,mui,tailwind,bootstrap,styledcomponents,jquery,figma,matlab,visualstudio,cpp,c,linux,vim,bash,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,vite,ts,firebase,graphql,vscode,git,mui,tailwind,bootstrap,styledcomponents,jquery,figma,matlab,visualstudio,cpp,c,linux,vim,bash,jupyter)](https://skillicons.dev)
 
 <h3>
   🤖 My Future Goals
